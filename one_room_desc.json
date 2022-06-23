@@ -1,0 +1,594 @@
+{
+  "address": "Москва, Туристская ул., 3",
+  "adjustParams": {
+    "categoryId": "23",
+    "microCategoryId": "3834",
+    "vertical": "RE"
+  },
+  "advertOptions": [],
+  "anonymousNumber": {
+    "subtitle": "смс и сообщения в Viber, WhatsApp и других мессенджерах не будут доставлены.",
+    "title": "Номер защищён:"
+  },
+  "badgeBar": {
+    "badges": [
+      {
+        "description": "Можно посмотреть по видеосвязи",
+        "id": 21,
+        "style": {
+          "backgroundColor": {
+            "value": "#F5F5F5",
+            "valueDark": "#252525"
+          },
+          "backgroundPressedColor": {
+            "value": "#EBEBEB",
+            "valueDark": "#2E2E2E"
+          },
+          "fontColor": {
+            "value": "#000000",
+            "valueDark": "#E3E3E3"
+          },
+          "icon": {
+            "value": {
+              "128x128": "https://23.img.avito.st/image/1/1.MvEBkba3bHq1sp6atexH3kpgnBqzNpoYfzM.Jefwzc9IPpH-j2zGQtTcRWX1jiSHUY0Ra8gH44aJn44",
+              "196x196": "https://23.img.avito.st/image/1/1.MvEBkba3bHq1up-StOxH3kpgnBqzNpoYfzM.hEc-z5Qkdnimc93VTas_aUAq4hXWpe3iGo059HxsXIw",
+              "256x256": "https://23.img.avito.st/image/1/1.MvEBkba3bHq1spias-xH3kpgnBqzNpoYfzM.lNrGYelFQt2qNBhVqchP66ClxE9UNWpJglKkiQ6xY9Q",
+              "64x64": "https://23.img.avito.st/image/1/1.MvEBkba3bHq1sp2atuxH3kpgnBqzNpoYfzM.0ZO2zEUPMYBFy3xoiPT9aZyu7jhQEqrP4mSFvX7Oc4o"
+            },
+            "valueDark": {
+              "128x128": "https://23.img.avito.st/image/1/1.MvEBkba3bHq1sp6atexH3kpgnBqzNpoYfzM.Jefwzc9IPpH-j2zGQtTcRWX1jiSHUY0Ra8gH44aJn44",
+              "196x196": "https://23.img.avito.st/image/1/1.MvEBkba3bHq1up-StOxH3kpgnBqzNpoYfzM.hEc-z5Qkdnimc93VTas_aUAq4hXWpe3iGo059HxsXIw",
+              "256x256": "https://23.img.avito.st/image/1/1.MvEBkba3bHq1spias-xH3kpgnBqzNpoYfzM.lNrGYelFQt2qNBhVqchP66ClxE9UNWpJglKkiQ6xY9Q",
+              "64x64": "https://23.img.avito.st/image/1/1.MvEBkba3bHq1sp2atuxH3kpgnBqzNpoYfzM.0ZO2zEUPMYBFy3xoiPT9aZyu7jhQEqrP4mSFvX7Oc4o"
+            }
+          }
+        },
+        "title": "Онлайн-показ",
+        "uri": "ru.avito://1/badgeBar/show?badgeId=21&objectId=2400682172&objectEntity=item"
+      }
+    ],
+    "view": {
+      "display": "vertical",
+      "preloadCount": 5,
+      "showMoreTitle": "Показать еще 5"
+    }
+  },
+  "bargainOffer": {
+    "buttonTitle": "Отправить",
+    "form": {
+      "description": {
+        "displaying": {
+          "multiline": true
+        },
+        "id": 2,
+        "placeholder": "Сообщение увидит арендодатель",
+        "required": false,
+        "title": "Аргументируйте, если хотите",
+        "type": "char"
+      },
+      "price": {
+        "id": 1,
+        "inputType": "numeric",
+        "motivation": {
+          "text": "В объявлении — 19 000 ₽"
+        },
+        "placeholder": "₽",
+        "required": true,
+        "title": "Ваша цена",
+        "type": "char"
+      }
+    },
+    "template": "Здравствуйте! Могу предложить {{1}} ₽. {{2}}",
+    "title": "Предложите цену"
+  },
+  "breadcrumbs": [
+    {
+      "deeplink": "ru.avito://1/items/search?categoryId=23&locationId=637640",
+      "name": "Комнаты",
+      "title": "Комнаты в Москве",
+      "url": "/moskva/komnaty"
+    },
+    {
+      "deeplink": "ru.avito://1/items/search?categoryId=23&locationId=637640&params%5B200%5D%5B0%5D=49&params%5B200%5D%5B1%5D=48&params%5B200%5D%5B2%5D=53&params%5B200%5D%5B3%5D=53",
+      "name": "Сдам",
+      "title": "Сдам",
+      "url": "/moskva/komnaty/sdam-ASgBAgICAUSQA74Q"
+    },
+    {
+      "deeplink": "ru.avito://1/items/search?categoryId=23&locationId=637640&params%5B200%5D%5B0%5D=49&params%5B200%5D%5B1%5D=48&params%5B200%5D%5B2%5D=53&params%5B200%5D%5B3%5D=53&params%5B596%5D%5B0%5D=54&params%5B596%5D%5B1%5D=50&params%5B596%5D%5B2%5D=48&params%5B596%5D%5B3%5D=51",
+      "name": "На длительный срок",
+      "title": "На длительный срок",
+      "url": "/moskva/komnaty/sdam/na_dlitelnyy_srok-ASgBAgICAkSQA74QqAn2YA"
+    }
+  ],
+  "categoryId": 23,
+  "contacts": {
+    "list": [
+      {
+        "type": "phone",
+        "value": {
+          "title": "Позвонить",
+          "uri": "ru.avito://1/phone/get?itemId=2400682172"
+        }
+      },
+      {
+        "type": "messenger",
+        "value": {
+          "title": "Написать",
+          "uri": "ru.avito://1/item/channel/create?itemId=2400682172&source=details-item"
+        }
+      }
+    ]
+  },
+  "coords": {
+    "lat": 55.845496,
+    "lng": 37.423851
+  },
+  "creditInfo": {
+    "type": "advBanner"
+  },
+  "customerValue": 2,
+  "description": "Сдаю комнату 20 м2 Девушке-студентке( славянской национальности)без вредных привычек, в хорошей квартире, со всеми удобствами, в кирпичном доме. Стоимость аренды 19000руб. в месяц без учёта коммунальных платежей+депозит 19000руб.( за сохранность комнаты( квартиры) и имущества в ней).",
+  "districtId": 736,
+  "firebaseParams": {
+    "area": "20 м²",
+    "categoryId": "23",
+    "categorySlug": "komnaty",
+    "commission": "Собственник",
+    "deposit": "1 мес.",
+    "floor": "6",
+    "floors_count": "9",
+    "house_type": "Кирпичный",
+    "isASDClient": "0",
+    "isShop": "0",
+    "itemID": "2400682172",
+    "itemPrice": "19000",
+    "lease_period": "На длительный срок",
+    "locationId": "637640",
+    "microCategoryId": "3834",
+    "ne_posledniy_etazh": "Не последний",
+    "offer_type": "Сдам",
+    "raspolozhenie": "Квартира",
+    "rooms": "2",
+    "tip_zhilya": "Комната",
+    "userAuth": "0",
+    "vertical": "RE",
+    "withDelivery": "0"
+  },
+  "geoReferences": [
+    {
+      "after": " 1,1 км",
+      "afterWithIcon": {
+        "iconName": "walkingRoute16",
+        "text": "16–20 мин."
+      },
+      "colors": [
+        "#943E90"
+      ],
+      "content": "Сходненская"
+    },
+    {
+      "after": " 1,8 км",
+      "afterWithIcon": {
+        "iconName": "walkingRoute16",
+        "text": "21–30 мин."
+      },
+      "colors": [
+        "#943E90"
+      ],
+      "content": "Планерная"
+    },
+    {
+      "after": " 2,2 км",
+      "afterWithIcon": {
+        "iconName": "walkingRoute16",
+        "text": "от 31 мин."
+      },
+      "colors": [
+        "#943E90"
+      ],
+      "content": "Тушинская"
+    }
+  ],
+  "icebreakers": {
+    "contact": "Спросите у арендодателя",
+    "texts": [
+      {
+        "id": 10701281,
+        "messageText": "Здравствуйте! Ещё сдаёте комнату?",
+        "previewText": "Ещё сдаёте?",
+        "uri": "ru.avito://1/item/channel/create?itemId=2400682172&messageDraft=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21+%D0%95%D1%89%D1%91+%D1%81%D0%B4%D0%B0%D1%91%D1%82%D0%B5+%D0%BA%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D1%83%3F&source=details-icebreaker"
+      },
+      {
+        "id": 10701282,
+        "messageText": "Здравствуйте! Скажите, торг уместен?",
+        "previewText": "Торг уместен?",
+        "uri": "ru.avito://1/item/channel/create?itemId=2400682172&messageDraft=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21+%D0%A1%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C+%D1%82%D0%BE%D1%80%D0%B3+%D1%83%D0%BC%D0%B5%D1%81%D1%82%D0%B5%D0%BD%3F&source=details-icebreaker"
+      },
+      {
+        "id": 10701283,
+        "messageText": "Здравствуйте! Когда можно посмотреть комнату?",
+        "previewText": "Когда можно посмотреть?",
+        "uri": "ru.avito://1/item/channel/create?itemId=2400682172&messageDraft=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21+%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE+%D0%BF%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C+%D0%BA%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D1%83%3F&source=details-icebreaker"
+      }
+    ]
+  },
+  "id": 2400682172,
+  "images": [
+    {
+      "100x75": "https://37.img.avito.st/image/1/1.DECsxLayoKnSZjSquLgkDX5noK8MZaI.xdgEx1KN6AjEgonm1ZuOmhwjaP1ygJnBM8GldiO-SEE",
+      "1280x960": "https://37.img.avito.st/image/1/1.DECsxLayoKmacyKkuLgkDX5noK8MZaI.UxDea1BktEDBYdX9cb0E-cvHmTRr2DvIn_KAengQ-7E",
+      "140x105": "https://37.img.avito.st/image/1/1.DECsxLayoKmCZXCquLgkDX5noK8MZaI.3npFOn8O7mr6u2_2zQg0Nf9AJLB_jVHTKEgYORYWVks",
+      "240x180": "https://37.img.avito.st/image/1/1.DECsxLayoKn6ZEqpuLgkDX5noK8MZaI.9r2QrJmlrg63GyuMMg8-X0WwRhKmi_Bz57Sd2nKH1r0",
+      "432x324": "https://37.img.avito.st/image/1/1.DECsxLayoKn6YSquuLgkDX5noK8MZaI.r3yf12LxwNyKhqfokK-SlHxF_u61cEvIMqwFWUVTWuM",
+      "640x480": "https://37.img.avito.st/image/1/1.DECsxLayoKmabWKsuLgkDX5noK8MZaI.RyZtfAgtugRO2UNhHOmppUcZ2PzErZHtC8eUH_1sEws"
+    },
+    {
+      "100x75": "https://16.img.avito.st/image/1/1.NSSYl7aymc3mNQ3O_tcdaUo0mcs4Nps.bKD7Zde_T660yMoJJQMgpO7g2gb6Wm1K85-jcRWQVCs",
+      "1280x960": "https://16.img.avito.st/image/1/1.NSSYl7aymc2uIBvA_tcdaUo0mcs4Nps.tI7Ec0Hab6YHfkVeegTxHZFZzWYo89BFmD92KwpSA3A",
+      "140x105": "https://16.img.avito.st/image/1/1.NSSYl7aymc22NknO_tcdaUo0mcs4Nps.GvWlBqBiqK1yM-S8Wejn4NQHsCgeomB23bD_gRF8l5Y",
+      "240x180": "https://16.img.avito.st/image/1/1.NSSYl7aymc3ON3PN_tcdaUo0mcs4Nps.-w78NAMgdAcFYlfJIrXYBguBE6k45wu0-ZBvPV962gw",
+      "432x324": "https://16.img.avito.st/image/1/1.NSSYl7aymc3OMhPK_tcdaUo0mcs4Nps.NJ8leKMoykribaMaOUGxSy8Rz5RSbcbE0PaspSYiIxE",
+      "640x480": "https://16.img.avito.st/image/1/1.NSSYl7aymc2uPlvI_tcdaUo0mcs4Nps.pK1z-eLLT8nt9Bp4sLkc5jTHcJ_aNFvC9jAlq1HEkdU"
+    },
+    {
+      "100x75": "https://92.img.avito.st/image/1/1.ZSS4l7ayyc3GNV3O_sZNaWo0ycsYNss.ECQT5cYIWOCn1QrBL-9j9IDuhjQpFhGVo8ynu26ydV4",
+      "1280x960": "https://92.img.avito.st/image/1/1.ZSS4l7ayyc2OIEvA_sZNaWo0ycsYNss.s5jy3FJSHxnTGjFT-niMGR2XQ1fhHvJ9R5aq1lzdnV4",
+      "140x105": "https://92.img.avito.st/image/1/1.ZSS4l7ayyc2WNhnO_sZNaWo0ycsYNss.t3TFmMwjYquAdZZ4AtIMVPLW9T3aNPZ5pLoVe7jz6mo",
+      "240x180": "https://92.img.avito.st/image/1/1.ZSS4l7ayyc3uNyPN_sZNaWo0ycsYNss.fnFHuP9B-i3mJaJCkSvW4arE7xIECh-eY_Bnpitks0A",
+      "432x324": "https://92.img.avito.st/image/1/1.ZSS4l7ayyc3uMkPK_sZNaWo0ycsYNss.kLGu4gowxhQMeo2qN-b_lZgV0Qqpw1N-njwGrc99uCU",
+      "640x480": "https://92.img.avito.st/image/1/1.ZSS4l7ayyc2OPgvI_sZNaWo0ycsYNss.ePwga1P0-OxmHGadesw_eXqS3776YpnhdDzVLIg9F78"
+    },
+    {
+      "100x75": "https://04.img.avito.st/image/1/1.wRrV77aybfOrTfnw27DpVwdMbfV1Tm8.5xT4lnYrATHzJGM3xMXRM0Ieq0MsN3XIjg1ncK909Yk",
+      "1280x960": "https://04.img.avito.st/image/1/1.wRrV77aybfPjWO_-27DpVwdMbfV1Tm8.3WYI1tCMo5HQFDRCYYyE1mlRY2JvQgDivfRIN9ID2t8",
+      "140x105": "https://04.img.avito.st/image/1/1.wRrV77aybfP7Tr3w27DpVwdMbfV1Tm8.VKHlOgH5X9zbk_F91sYdm-3YuqVDxySIii9pSwPi37Y",
+      "240x180": "https://04.img.avito.st/image/1/1.wRrV77aybfODT4fz27DpVwdMbfV1Tm8.r30pC6JHkTMiYXHqwueKXRgTGeU9rhf8ws1oqidKeu0",
+      "432x324": "https://04.img.avito.st/image/1/1.wRrV77aybfODSuf027DpVwdMbfV1Tm8.s6VSmK7P1I2BiBpdmhdwu3CGOW5AjmBnueYwlIMYckw",
+      "640x480": "https://04.img.avito.st/image/1/1.wRrV77aybfPjRq_227DpVwdMbfV1Tm8.E_imt3gcQnZo2iCGP3u8ddcdzPX1ZeNEBKA8_DJling"
+    },
+    {
+      "100x75": "https://45.img.avito.st/image/1/1.QNoQ1Lay7DNudngwHPFpl8J37DWwde4.8GF1zT2c_vFbH3U9lgZ8-kMfp7slERwvYP7i4an5a20",
+      "1280x960": "https://45.img.avito.st/image/1/1.QNoQ1Lay7DMmY24-HPFpl8J37DWwde4.wB24gYIpvah_1xj5K1VSq6heZtas_74TEmS--vp9WVE",
+      "140x105": "https://45.img.avito.st/image/1/1.QNoQ1Lay7DM-dTwwHPFpl8J37DWwde4.pwgg6cSRbKobrYsv3kf-DFOd4UqTVvI7Sw9vumcLOrQ",
+      "240x180": "https://45.img.avito.st/image/1/1.QNoQ1Lay7DNGdAYzHPFpl8J37DWwde4.JWxpi4WLSge7AHnMl4IvqnC0tOyJa0HwWna8WSXrGPg",
+      "432x324": "https://45.img.avito.st/image/1/1.QNoQ1Lay7DNGcWY0HPFpl8J37DWwde4.lZR4CkJP87fLgpkuJjWKet3zUI2MIIz-GIkWK20Wqu8",
+      "640x480": "https://45.img.avito.st/image/1/1.QNoQ1Lay7DMmfS42HPFpl8J37DWwde4.xxpjUHv653SWq-SIz-wx400kxFNLuYrvaZJ9t7RXzys"
+    },
+    {
+      "100x75": "https://78.img.avito.st/image/1/1.k9BucLayPzkQ0qs6RF66nbzTPz_O0T0.K8BXMAaiY0zci6lJQF6tZqanuJgv8yYMePyUIKIyac8",
+      "1280x960": "https://78.img.avito.st/image/1/1.k9BucLayPzlYx700RF66nbzTPz_O0T0.xL7SVf7GWVwta9PjUgxR-UF7CNEn5a4kU0wn3O_l7eg",
+      "140x105": "https://78.img.avito.st/image/1/1.k9BucLayPzlA0e86RF66nbzTPz_O0T0.oee5KRgR5dpqxximXdgqjrwbylCMy6fvzBBSJx0U-3Y",
+      "240x180": "https://78.img.avito.st/image/1/1.k9BucLayPzk40NU5RF66nbzTPz_O0T0.KGgnA6_-9lu-GC7RFCqbWStgxMO3SJ9i4cOprVnXWFw",
+      "432x324": "https://78.img.avito.st/image/1/1.k9BucLayPzk41bU-RF66nbzTPz_O0T0.2jOuhQCtKjmme0q45h2fe3SPfDHTZls1G9b-xwfUC7k",
+      "640x480": "https://78.img.avito.st/image/1/1.k9BucLayPzlY2f08RF66nbzTPz_O0T0.Ow0_EB3ax5pil8nnjNCAIRXDXvOfyO1CAc7n68rLi-E"
+    },
+    {
+      "100x75": "https://98.img.avito.st/image/1/1.OziN27ayl9HzeQPS9-MSdV94l9ctepU.HU1SynqpqSm6f83RQw4KFXMQOVDQFU9doQh-R3M1slk",
+      "1280x960": "https://98.img.avito.st/image/1/1.OziN27ayl9G7bBXc9-MSdV94l9ctepU.o9kduyFjEC44EQvUPXdkdgA7poLbFvsAZv_XLYz6gI0",
+      "140x105": "https://98.img.avito.st/image/1/1.OziN27ayl9GjekfS9-MSdV94l9ctepU.mZ2vNAiitBXrYJNvMsriLX3X-8uvXkUadkefersIcfU",
+      "240x180": "https://98.img.avito.st/image/1/1.OziN27ayl9Hbe33R9-MSdV94l9ctepU.uhmDFe9PNzptEGAtsd6H6R8ArmDLOYKSv4h64xI5CJc",
+      "432x324": "https://98.img.avito.st/image/1/1.OziN27ayl9Hbfh3W9-MSdV94l9ctepU.9086CJFEznNEW_-PZFIulMkL_FHSKF0dphaPpmfsWww",
+      "640x480": "https://98.img.avito.st/image/1/1.OziN27ayl9G7clXU9-MSdV94l9ctepU.udsJppNiP0GbAKUF3r_n_EWUuuapO4lt3CexUfLpvf8"
+    },
+    {
+      "100x75": "https://16.img.avito.st/image/1/1.Pd94HbaykTYGvwU1DhUUkqq-kTDYvJM.cX1pYCGH58I2C9B7cawBj-Ptk4x8r06OGqTZyToym-k",
+      "1280x960": "https://16.img.avito.st/image/1/1.Pd94HbaykTZOqhM7DhUUkqq-kTDYvJM.X1ClOUpccj3CWpTEVyp2fYGQ-lSe97aUw3h6M7zzY3Y",
+      "140x105": "https://16.img.avito.st/image/1/1.Pd94HbaykTZWvEE1DhUUkqq-kTDYvJM.TSPD6LqNqWsaDONh6IlKuaQOSYRRfv1PUVLDlHU1rOU",
+      "240x180": "https://16.img.avito.st/image/1/1.Pd94HbaykTYuvXs2DhUUkqq-kTDYvJM.cI3LrvhbFdHYn0oxzlg0gBzafG-OT7JPPz8PB4OLqqY",
+      "432x324": "https://16.img.avito.st/image/1/1.Pd94HbaykTYuuBsxDhUUkqq-kTDYvJM.SwwRAb1gTWhjtU2aTz-1NNxPgB0TDy58oESL6H1Ik7Q",
+      "640x480": "https://16.img.avito.st/image/1/1.Pd94HbaykTZOtFMzDhUUkqq-kTDYvJM.lqiFNw0NF6k-8yRggN3kER19p60qTG_B7rIfa7b_CMg"
+    },
+    {
+      "100x75": "https://46.img.avito.st/image/1/1.i9GucLayJzjQ0rM7tGainHzTJz4O0SU.70hUqH0zokEEjX0rHQAuGsOY4UN4vr-zQnjnR_IEQ9A",
+      "1280x960": "https://46.img.avito.st/image/1/1.i9GucLayJziYx6U1tGainHzTJz4O0SU.1D0BUlBT7SzRQgUAhHyWfenoYi3msEAwRSMk-MDjqDU",
+      "140x105": "https://46.img.avito.st/image/1/1.i9GucLayJziA0fc7tGainHzTJz4O0SU.4MV3WpLSAjm0wLTnmegBCPjuo4OvZtZ2oUhg6Aa7saM",
+      "240x180": "https://46.img.avito.st/image/1/1.i9GucLayJzj40M04tGainHzTJz4O0SU.BfeAIvyHbQrNvsQuBYeuWnMKJCOQTBytCDBGzcIi5E0",
+      "432x324": "https://46.img.avito.st/image/1/1.i9GucLayJzj41a0_tGainHzTJz4O0SU.BdKQ6gMVRS6sIsNbR7_XNzQkudNcLDtGjuti5grHGU0",
+      "640x480": "https://46.img.avito.st/image/1/1.i9GucLayJziY2eU9tGainHzTJz4O0SU.mCvh0-ICdswNRcNPyhyxlYEhYcz6kw2QpXCG7wQgRCg"
+    },
+    {
+      "100x75": "https://71.img.avito.st/image/1/1.-nf6yrayVp6EaMKdgo3TOihpVphaa1Q.neZZ4a1cXzhMyrPp7aOSDON0pNyUHvmxEAo61pm60tw",
+      "1280x960": "https://71.img.avito.st/image/1/1.-nf6yrayVp7MfdSTgo3TOihpVphaa1Q.JEUE6OMkA9JegUOoXBSgCw5YazxJ04iHxVs_mkLpaX8",
+      "140x105": "https://71.img.avito.st/image/1/1.-nf6yrayVp7Ua4adgo3TOihpVphaa1Q.vLo7In_0YeBWyUv2bVVewOcQiu-iU1VP2jegvDq4WMg",
+      "240x180": "https://71.img.avito.st/image/1/1.-nf6yrayVp6saryego3TOihpVphaa1Q.JdZBfCCNbhYZjQwtv2WrmHPvxAp1OFdJBXGaqn0n71c",
+      "432x324": "https://71.img.avito.st/image/1/1.-nf6yrayVp6sb9yZgo3TOihpVphaa1Q.8ofviWLFmrV9V1Av7gLFU4CQrXlVbewWpLIO2QR8xGU",
+      "640x480": "https://71.img.avito.st/image/1/1.-nf6yrayVp7MY5Sbgo3TOihpVphaa1Q.JAJZrscqh44lx8OHFe_Qo-A-VWrTMhGodbOSS_Iz6Ew"
+    },
+    {
+      "100x75": "https://37.img.avito.st/image/1/1.-JvHBbayVHK5p8Bxu1bR1hWmVHRnpFY.igqDQsOCQQaSML3G1LQqDbOKE1WGEP7o92AGJ56n0hk",
+      "1280x960": "https://37.img.avito.st/image/1/1.-JvHBbayVHLxstZ_u1bR1hWmVHRnpFY.6BFOgxhUyBRIZVs14USNrEb1QIpbjdm1QAi70eev_qc",
+      "140x105": "https://37.img.avito.st/image/1/1.-JvHBbayVHLppIRxu1bR1hWmVHRnpFY.7CK3YHobXre2o5ApbG77lDJbInQ7EUhsDEQPd7qwjLc",
+      "240x180": "https://37.img.avito.st/image/1/1.-JvHBbayVHKRpb5yu1bR1hWmVHRnpFY.NY3Eims5PdGAnogUa3oROU8KTTTyImt7McEGw06vq-Y",
+      "432x324": "https://37.img.avito.st/image/1/1.-JvHBbayVHKRoN51u1bR1hWmVHRnpFY.qN6dSbsWnQ3IednG0AtdVCTJWYEBpmdEoSYmdqMPWUg",
+      "640x480": "https://37.img.avito.st/image/1/1.-JvHBbayVHLxrJZ3u1bR1hWmVHRnpFY.zWtBJxA2aD_R67XUZr4AhhyOLOW8Til1GsjPkozrd1c"
+    },
+    {
+      "100x75": "https://24.img.avito.st/image/1/1.0adXQLayfU4p4ulNeRv46oXjfUj34X8.zw9FkaCch_hjbDkhV8U6qfOL2pb3zlTu8A5-APmvoSE",
+      "1280x960": "https://24.img.avito.st/image/1/1.0adXQLayfU5h9_9DeRv46oXjfUj34X8.PSSNg0goehEI9UXlLY90505SV6--4Z9bvf-5FCIc-QM",
+      "140x105": "https://24.img.avito.st/image/1/1.0adXQLayfU554a1NeRv46oXjfUj34X8.i1SMs8ttBH9pbPXxoufl3CKp0nEo4mFV9D-VpyYWz-0",
+      "240x180": "https://24.img.avito.st/image/1/1.0adXQLayfU4B4JdOeRv46oXjfUj34X8.gdVdLMUkqffzhQDWWn7db4VYv67lTM5jyqohNQrLAEI",
+      "432x324": "https://24.img.avito.st/image/1/1.0adXQLayfU4B5fdJeRv46oXjfUj34X8.KyF-UUqPmm7PDdTOAsmWdIAZxk7i9pOMQmLCcMjqwGU",
+      "640x480": "https://24.img.avito.st/image/1/1.0adXQLayfU5h6b9LeRv46oXjfUj34X8.LieAN5HqAN6VKTGFl3x6IMaKOvw09-NnLQjPiU_FV9M"
+    },
+    {
+      "100x75": "https://02.img.avito.st/image/1/1.yzixO7ayZ9HPmfPSqxztdWOYZ9cRmmU.FkJfDpIrOEutOEjgMoxP1hpk8UPcUVLnHjByomgSzS8",
+      "1280x960": "https://02.img.avito.st/image/1/1.yzixO7ayZ9GHjOXcqxztdWOYZ9cRmmU.-AX7zilY_clDoZOYMLAIMxfdW_ZV3mwHOr6_W-xfSoE",
+      "140x105": "https://02.img.avito.st/image/1/1.yzixO7ayZ9GfmrfSqxztdWOYZ9cRmmU.NJAIh1n01TZD0lsiU3TFPnrqSwHbxRrTEjOAFwJPzYs",
+      "240x180": "https://02.img.avito.st/image/1/1.yzixO7ayZ9Hnm43RqxztdWOYZ9cRmmU.ON-8-MA2OuCUVJgqWnBgYzhoCOq0-Ph2N5OGq2DXgyA",
+      "432x324": "https://02.img.avito.st/image/1/1.yzixO7ayZ9Hnnu3WqxztdWOYZ9cRmmU.rgYE8_NpJag2pXJB0_06OWsXkyNPB2d58qOsJQxCAiE",
+      "640x480": "https://02.img.avito.st/image/1/1.yzixO7ayZ9GHkqXUqxztdWOYZ9cRmmU.pB5We-SNiFLrCjjRkk-LxhO8s9KyX6DusFXs8msUnnM"
+    },
+    {
+      "100x75": "https://42.img.avito.st/image/1/1.t2aG3LayG4_4fo-M5PaRK1R_G4kmfRk.QGB6B_k-If4epnHSaPRylkdUb4FXZghvguPuupEninQ",
+      "1280x960": "https://42.img.avito.st/image/1/1.t2aG3LayG4-wa5mC5PaRK1R_G4kmfRk.vueJ89kM9U0eiluahwSVDM9tfUBRa6WEidsa_OnxHAM",
+      "140x105": "https://42.img.avito.st/image/1/1.t2aG3LayG4-ofcuM5PaRK1R_G4kmfRk.9BiKiivnvD0CehxVhptEua4N_c6CxEGve3pMGKLy8Hw",
+      "240x180": "https://42.img.avito.st/image/1/1.t2aG3LayG4_QfPGP5PaRK1R_G4kmfRk.kmQp6g0wpW_hMeKENpkIS56f9iVvbWujgEP080q8VcY",
+      "432x324": "https://42.img.avito.st/image/1/1.t2aG3LayG4_QeZGI5PaRK1R_G4kmfRk.KfCrRmJBDX3yUD8bHWtmKJLbYT5Q11MzVVSKgQzPkso",
+      "640x480": "https://42.img.avito.st/image/1/1.t2aG3LayG4-wddmK5PaRK1R_G4kmfRk.4fkzh8vTGE7LPGc71DyEAKO8LJlmVxiSSnmbWfV-sr8"
+    },
+    {
+      "100x75": "https://37.img.avito.st/image/1/1.8FoQrLayXLNuDsiwfIPWF8IPXLWwDV4.wvxAK1BedxUZ2g4DipJxOkQ1MRsC-UoaSrpQDAXTqv0",
+      "1280x960": "https://37.img.avito.st/image/1/1.8FoQrLayXLMmG96-fIPWF8IPXLWwDV4.Y467KDVPtH_mObno3E6OXm9Xx8hrhia4EsieGj1fZn0",
+      "140x105": "https://37.img.avito.st/image/1/1.8FoQrLayXLM-DYywfIPWF8IPXLWwDV4.BRKXvhrX-BmDOmf80vRkIarSuVkMUOTlv9tvOL1opdw",
+      "240x180": "https://37.img.avito.st/image/1/1.8FoQrLayXLNGDLazfIPWF8IPXLWwDV4.6BzEZ7zJQuFKv6oywwEXU5p6rqFEiyeA6Y-aMkls72g",
+      "432x324": "https://37.img.avito.st/image/1/1.8FoQrLayXLNGCda0fIPWF8IPXLWwDV4.jTdUCXujF-VwYNgmkJYBGzg8LD1byRu7X68EpuSpOVE",
+      "640x480": "https://37.img.avito.st/image/1/1.8FoQrLayXLMmBZ62fIPWF8IPXLWwDV4.jH0MikqVF6LEATrOO4rmhbLIGbjnKocouKuARK-3dXE"
+    },
+    {
+      "100x75": "https://21.img.avito.st/image/1/1.OE25EraylKTHsACnxT4eAGuxlKIZs5Y.1tT6fP0Y7nNe8tW9B9b44HyFUGyeQPnZgj8E49dPX8U",
+      "1280x960": "https://21.img.avito.st/image/1/1.OE25EraylKSPpRapxT4eAGuxlKIZs5Y.NoncUn0n5jAVMyKy7_KGQVwa-HLkXKgBz9f1OZg1MQs",
+      "140x105": "https://21.img.avito.st/image/1/1.OE25EraylKSXs0SnxT4eAGuxlKIZs5Y.ZFYKAuV2JV5vO1v2C9Lwpk60Sr_IdPrz1HRsWgF33rw",
+      "240x180": "https://21.img.avito.st/image/1/1.OE25EraylKTvsn6kxT4eAGuxlKIZs5Y.2z-lUbc135TM6E58fWJQ3U8xgbM7NL35ygNxLHgr7DE",
+      "432x324": "https://21.img.avito.st/image/1/1.OE25EraylKTvtx6jxT4eAGuxlKIZs5Y.T_sc0JTFJjyf_llCVl1I6h1XqIFQMdVCdCeuNdU3f5k",
+      "640x480": "https://21.img.avito.st/image/1/1.OE25EraylKSPu1ahxT4eAGuxlKIZs5Y.XNC841nfgpLuy-Vmb5AJKz_mObMDkONzIzfXVeNFRZQ"
+    },
+    {
+      "100x75": "https://54.img.avito.st/image/1/1.E9NlpLayvzobBis5T5Q1nrcHvzzFBb0.1BERedM7Q4N5QTFz1lQkLq6b1-bJ-BqRIzyRJdqtVos",
+      "1280x960": "https://54.img.avito.st/image/1/1.E9NlpLayvzpTEz03T5Q1nrcHvzzFBb0.l8pzV2BzMDAyJnUtiRSoyrpsgPK94gKjQc8zK9hw528",
+      "140x105": "https://54.img.avito.st/image/1/1.E9NlpLayvzpLBW85T5Q1nrcHvzzFBb0.QzXYoDLPKh1cczG-ncAYuIR1GCrnRwM377ha-0oey4E",
+      "240x180": "https://54.img.avito.st/image/1/1.E9NlpLayvzozBFU6T5Q1nrcHvzzFBb0.LkWgETZMuQ8l7UXkuF3PPuGa9qMNoyjV8CdYkJaUFhM",
+      "432x324": "https://54.img.avito.st/image/1/1.E9NlpLayvzozATU9T5Q1nrcHvzzFBb0.jpm4vFlrMePhWzscsazTsz7ptTrjS4Ksu6AXA-FyTSw",
+      "640x480": "https://54.img.avito.st/image/1/1.E9NlpLayvzpTDX0_T5Q1nrcHvzzFBb0.ziP7qRna0w7urPNa2mx6qeCvC6-Qzle4cGZg_8GATuU"
+    },
+    {
+      "100x75": "https://75.img.avito.st/image/1/1.di0um7ay2sRQOU7HTq5QYPw42sKOOtg.iFYSbwN0IBiqD0YOKi85P0rrCTSLCRdiXltwI3UlBbk",
+      "1280x960": "https://75.img.avito.st/image/1/1.di0um7ay2sQYLFjJTq5QYPw42sKOOtg.ZB0yFDU_BAry6q0NQnv6W7Qa0ijUu3Jdg0fmxPIZauA",
+      "140x105": "https://75.img.avito.st/image/1/1.di0um7ay2sQAOgrHTq5QYPw42sKOOtg.mWvRk5tE-lH2h4SsqaDcjWcuASqz4wgMd8HJvLTRKi0",
+      "240x180": "https://75.img.avito.st/image/1/1.di0um7ay2sR4OzDETq5QYPw42sKOOtg.JkzxgKMjtc96_gHYNPRCylOgaoqohdreD7_BJ4TdEFQ",
+      "432x324": "https://75.img.avito.st/image/1/1.di0um7ay2sR4PlDDTq5QYPw42sKOOtg.C_AEJZZK_tAh8NibQlLnQ7a6riCLl9i2uo4zxTTGUdk",
+      "640x480": "https://75.img.avito.st/image/1/1.di0um7ay2sQYMhjBTq5QYPw42sKOOtg.h3btgdHYamCKAEk6-BM-GJLZbcdxyF2p3T5VG3CgHwQ"
+    },
+    {
+      "100x75": "https://86.img.avito.st/image/1/1.o-zOcLayDwWw0psGhEqFoRzTDwNu0Q0.90Czdd9WxP5yBFX6jJGw4SGFKjOc66r2QfjDWKawVSY",
+      "1280x960": "https://86.img.avito.st/image/1/1.o-zOcLayDwX4x40IhEqFoRzTDwNu0Q0.6vlOzqPMS1vDuHubxSqWRLJLNJJ9Sk8yKA7JWuw8Im4",
+      "140x105": "https://86.img.avito.st/image/1/1.o-zOcLayDwXg0d8GhEqFoRzTDwNu0Q0.XmFsTzjfH_0OXz7E5pjNQf76eD0HY4HWhPDhFMfPatk",
+      "240x180": "https://86.img.avito.st/image/1/1.o-zOcLayDwWY0OUFhEqFoRzTDwNu0Q0.q_-XJtSzUz1Q_iNN_PwpNngDSrTmRej-kLWjKVlhHQA",
+      "432x324": "https://86.img.avito.st/image/1/1.o-zOcLayDwWY1YUChEqFoRzTDwNu0Q0.9pun2BvD3CJkRLp6FUwJmo7SpaEtob8qiYAP4ifgLi4",
+      "640x480": "https://86.img.avito.st/image/1/1.o-zOcLayDwX42c0AhEqFoRzTDwNu0Q0.GwHmj4g-taA23bWbjCB13aOlPAzJBnVKb7232HgIV4Y"
+    },
+    {
+      "100x75": "https://56.img.avito.st/image/1/1.GfZV77aytR8rTSEca9c_u4dMtRn1Trc.tNZ1wkAwINxbkLZq4SgIfiT_PDArk4GqbMytbpKXqAQ",
+      "1280x960": "https://56.img.avito.st/image/1/1.GfZV77aytR9jWDcSa9c_u4dMtRn1Trc.h_PBvgv9zMJxKC20F4p3hlv_GSRP2f4WNExqcVlQjWQ",
+      "140x105": "https://56.img.avito.st/image/1/1.GfZV77aytR97TmUca9c_u4dMtRn1Trc.8HIv_YIlSrcJy6Q4AoM5u1AROv8N1oq7fdg0_HBxEXU",
+      "240x180": "https://56.img.avito.st/image/1/1.GfZV77aytR8DT18fa9c_u4dMtRn1Trc.MWsNywiyToZoXbHVT6yR_rbzuuATJ6OTVr2YrMk3rls",
+      "432x324": "https://56.img.avito.st/image/1/1.GfZV77aytR8DSj8Ya9c_u4dMtRn1Trc.N1jn8u8meKA9IsN-XWDel5fVHs7qkmbmE44Z1QyQULY",
+      "640x480": "https://56.img.avito.st/image/1/1.GfZV77aytR9jRncaa9c_u4dMtRn1Trc.tRmCwlju3RYvkz7dxKUC5Glp4OvI_l9X_DuUoA7qhwM"
+    },
+    {
+      "100x75": "https://10.img.avito.st/image/1/1.H9vDLrayszK9jCcx8RI5lhGNszRjj7E.MoqEZXIxBSxHLrRG9lI56P7ESJL5ohy1oWY9U28tAsk",
+      "1280x960": "https://10.img.avito.st/image/1/1.H9vDLrayszL1mTE_8RI5lhGNszRjj7E.7Kr7cGxyjPz6cwd6UcSnbqvWUBYD7xPmti86c_EZ0tY",
+      "140x105": "https://10.img.avito.st/image/1/1.H9vDLrayszLtj2Mx8RI5lhGNszRjj7E.8e27ld1ZvL_7_NmSdwFowzatP1UW5SgDBRJwT3wXX3A",
+      "240x180": "https://10.img.avito.st/image/1/1.H9vDLrayszKVjlky8RI5lhGNszRjj7E.yV0yjWOc_Hj70k7Sy2Rr7TvlC9M5jKPhxJoro4Tos3g",
+      "432x324": "https://10.img.avito.st/image/1/1.H9vDLrayszKVizk18RI5lhGNszRjj7E.gmsG08rKxtt-N5HvGlbWazNOIZx_n1qRNQVnfpKYTjU",
+      "640x480": "https://10.img.avito.st/image/1/1.H9vDLrayszL1h3E38RI5lhGNszRjj7E.lfexuhdOXxvJBWeSrd6MZ9i_leVluJfVL6hqFfxjuJM"
+    },
+    {
+      "100x75": "https://37.img.avito.st/image/1/1.nPHWdLayMBio1qQb4na6vATXMB521TI.3kD8sAPHardj55UoBYX07L3qI_EzSl4uRWQoRC-pjMg",
+      "1280x960": "https://37.img.avito.st/image/1/1.nPHWdLayMBjgw7IV4na6vATXMB521TI.g9-jNg2EMp4RfdkvcuArSDyCRXBMr329x0yyrOu0R5M",
+      "140x105": "https://37.img.avito.st/image/1/1.nPHWdLayMBj41eAb4na6vATXMB521TI.dSkT6iZRlZkTwLPOdjPRR0NOCRHW1-3es-29aj0e7aE",
+      "240x180": "https://37.img.avito.st/image/1/1.nPHWdLayMBiA1NoY4na6vATXMB521TI.QOcOsiO0J0GU2Bb3g7i9INGk0Ca4CD49jXwq0LK_1x4",
+      "432x324": "https://37.img.avito.st/image/1/1.nPHWdLayMBiA0bof4na6vATXMB521TI.VfPaJnRNrp8U67rrA72LRaR3LuhjJl3hnCdrwadqCxY",
+      "640x480": "https://37.img.avito.st/image/1/1.nPHWdLayMBjg3fId4na6vATXMB521TI.Un-Uw09PdJkhdJE0lXTtt5xVra0KPAKH9QgXqB8uD_g"
+    },
+    {
+      "100x75": "https://26.img.avito.st/image/1/1.I1Nlpbayj7obBxu5L6UFHrcGj7zFBI0.3zrE4N-EZxJs6w809-rvmdndxQtatcCeFFScfwl6dBU",
+      "1280x960": "https://26.img.avito.st/image/1/1.I1Nlpbayj7pTEg23L6UFHrcGj7zFBI0.UiULoMYJpANKvXK8qqzITCcC6WIzvJnQkfc3BcGXgPQ",
+      "140x105": "https://26.img.avito.st/image/1/1.I1Nlpbayj7pLBF-5L6UFHrcGj7zFBI0.k9Oa9SuDNRHpN6CI3b4IvzJMOOq1BhwjFbebVcrT6Ok",
+      "240x180": "https://26.img.avito.st/image/1/1.I1Nlpbayj7ozBWW6L6UFHrcGj7zFBI0.vbKgGHTyExjw4aCR2Nl3h_HY5wIbRVB0a61iayD6jp0",
+      "432x324": "https://26.img.avito.st/image/1/1.I1Nlpbayj7ozAAW9L6UFHrcGj7zFBI0.hYLGn4yw34CNEiv8k5p28D304sap7QI2InQ7VgAd22o",
+      "640x480": "https://26.img.avito.st/image/1/1.I1Nlpbayj7pTDE2_L6UFHrcGj7zFBI0.x4ZZzcCQ9Nd6y5QkYYE39bFPPtnwLQwFtSAN3Jp_oxA"
+    },
+    {
+      "100x75": "https://43.img.avito.st/image/1/1.ri0ul7ayAsRQNZbHfpGIYPw0AsKONgA.qMD2mGqdVZ9ZVvn0J8PDBTR4SGx_hHJUqnGzqAEU-OM",
+      "1280x960": "https://43.img.avito.st/image/1/1.ri0ul7ayAsQYIIDJfpGIYPw0AsKONgA.p8zhT7xZUdYZ_tXiRSenzIkFQ4Xg-1ddpuYGY1Q8BdE",
+      "140x105": "https://43.img.avito.st/image/1/1.ri0ul7ayAsQANtLHfpGIYPw0AsKONgA.L9kn01FYS-u7R2x8t6rkPf8GuAny-CmuXTEpo13jyo8",
+      "240x180": "https://43.img.avito.st/image/1/1.ri0ul7ayAsR4N-jEfpGIYPw0AsKONgA.cJ34P1UgxHKSUNRqtsEmENZN6h27viOOXuBYz2hBS1U",
+      "432x324": "https://43.img.avito.st/image/1/1.ri0ul7ayAsR4MojDfpGIYPw0AsKONgA.d_xdEoTlvWI02bNfj3S-KyKDURhXkwRaSFW4AWwq8gA",
+      "640x480": "https://43.img.avito.st/image/1/1.ri0ul7ayAsQYPsDBfpGIYPw0AsKONgA.NN3-b1ZKZ-qWSZfu_BMo4y5_V9s7CgcZh9D2EjG6Yvo"
+    },
+    {
+      "100x75": "https://48.img.avito.st/image/1/1.GfPV77aytRqrTSEZ6_s_vgdMtRx1Trc.iBXg-x6lVRyqqUM76h0dICyYepSE-Bcu0qsRcFhhM2s",
+      "1280x960": "https://48.img.avito.st/image/1/1.GfPV77aytRrjWDcX6_s_vgdMtRx1Trc.5dIEDSZbCRlC5WZmyB3oGo5seNKGCdIdLUxwN-6WMhc",
+      "140x105": "https://48.img.avito.st/image/1/1.GfPV77aytRr7TmUZ6_s_vgdMtRx1Trc.WZ5VtqPmHm0FLz_TuJiD9ffAyQTAgZEEbAKahBB4oks",
+      "240x180": "https://48.img.avito.st/image/1/1.GfPV77aytRqDT18a6_s_vgdMtRx1Trc.3VYCPJ6xwFrng4G1FuY7214yfAByr5m6N4hJfOb7ER0",
+      "432x324": "https://48.img.avito.st/image/1/1.GfPV77aytRqDSj8d6_s_vgdMtRx1Trc.28C2cQIxAJJN1YPK3XEPMdGqNYiiJ9dnyugukCXBQts",
+      "640x480": "https://48.img.avito.st/image/1/1.GfPV77aytRrjRncf6_s_vgdMtRx1Trc.1Cn5CkhICsvbBBopAl6FZ-4RDFS1j59pxcgBu4i9C5c"
+    },
+    {
+      "100x75": "https://11.img.avito.st/image/1/1.3thwO7aycjEOmeYyQCD4laKYcjfQmnA.DdfarHFVG-dI1o5FCC3VdWBJ73sF868Rou4vMUwEou0",
+      "1280x960": "https://11.img.avito.st/image/1/1.3thwO7aycjFGjPA8QCD4laKYcjfQmnA.L5K5NGMW0thrUc92tvxr8VJIrCzY1pxF9YsataOm_0U",
+      "140x105": "https://11.img.avito.st/image/1/1.3thwO7aycjFemqIyQCD4laKYcjfQmnA.eOFZGS9qXfUCK7S1jBI1WiSef5OrZuAL7XUIYfgsbqA",
+      "240x180": "https://11.img.avito.st/image/1/1.3thwO7aycjEmm5gxQCD4laKYcjfQmnA.dWfDouT7Sr3oOpKfA1PmEH8V6rFW0L7Skhf2fJgs9Z4",
+      "432x324": "https://11.img.avito.st/image/1/1.3thwO7aycjEmnvg2QCD4laKYcjfQmnA.vZ71rTXGD9Jejb71inceiZeea5sK1EkyJ-T3WvKp1eo",
+      "640x480": "https://11.img.avito.st/image/1/1.3thwO7aycjFGkrA0QCD4laKYcjfQmnA.eZFrE_xmJQFAbpuswsDocdpmT090wJKY3yB7CYIWJYA"
+    },
+    {
+      "100x75": "https://80.img.avito.st/image/1/1.lSool7ayOcNWNa3ADo2zZ_o0OcWINjs.jqHGY4Bs6rIY8MH0fBu3kNjDAYFdCHR_lNdb7iLb7BU",
+      "1280x960": "https://80.img.avito.st/image/1/1.lSool7ayOcMeILvODo2zZ_o0OcWINjs.nZiYH0sntkoHZ4YF0OIXivrzMgwPZD2KJ8Mzz8E05I0",
+      "140x105": "https://80.img.avito.st/image/1/1.lSool7ayOcMGNunADo2zZ_o0OcWINjs.9SBgao-g3sw92_nByBrP5CqMR5YV39kSjqzhCIaag-U",
+      "240x180": "https://80.img.avito.st/image/1/1.lSool7ayOcN-N9PDDo2zZ_o0OcWINjs.EAqbaKVOxQyKpTJEx8Ny8TyWLfaVfdFdJ4EfQTPu9i4",
+      "432x324": "https://80.img.avito.st/image/1/1.lSool7ayOcN-MrPEDo2zZ_o0OcWINjs.mXn-Wn1COFt20kse5Uz7tEdG0y8W9thrT3KhHUo9hCo",
+      "640x480": "https://80.img.avito.st/image/1/1.lSool7ayOcMePvvGDo2zZ_o0OcWINjs.SQIrAmh_ejVBtC5jdogI46Wp1n-R2MQNglP9xNqGwu0"
+    },
+    {
+      "100x75": "https://23.img.avito.st/image/1/1.ri0ukLayAsRQMpbHfoqIYPwzAsKOMQA.YYITGQqD-YnqnQRAIF1tuLUkBWBLGiMl977BkarINwU",
+      "1280x960": "https://23.img.avito.st/image/1/1.ri0ukLayAsQYJ4DJfoqIYPwzAsKOMQA.4OBwsOHo3QWLP3MWqCjTwVuKl-dZhCpoXqxQ66ZfxoQ",
+      "140x105": "https://23.img.avito.st/image/1/1.ri0ukLayAsQAMdLHfoqIYPwzAsKOMQA.6xraAQD1zXCnykyY0V_R83Ko3zSIHLrUpxnXozIiOSI",
+      "240x180": "https://23.img.avito.st/image/1/1.ri0ukLayAsR4MOjEfoqIYPwzAsKOMQA.Qqy5fPnRpHxvNqAz3de6jDQyX4aTLfof1vv-e55rAaU",
+      "432x324": "https://23.img.avito.st/image/1/1.ri0ukLayAsR4NYjDfoqIYPwzAsKOMQA.AZV7RT75NkehGTxOTV3orU2EYqmN2yZqzNfRzv4Fbs8",
+      "640x480": "https://23.img.avito.st/image/1/1.ri0ukLayAsQYOcDBfoqIYPwzAsKOMQA.jgx8RmyIFPnj0etxyhpqdiV7xLxt736Czr7IhiraF60"
+    },
+    {
+      "100x75": "https://96.img.avito.st/image/1/1.YfJV77ayzRsrTVkYG_ZHv4dMzR31Ts8.nAWa-fkLQqbedDeTWHpW_om5CdXWQ7M4KFRlLcivAGA",
+      "1280x960": "https://96.img.avito.st/image/1/1.YfJV77ayzRtjWE8WG_ZHv4dMzR31Ts8.fUY-84JWgiypOenPJL4VLZMFij7KBQWoTvAQsbOOiuU",
+      "140x105": "https://96.img.avito.st/image/1/1.YfJV77ayzRt7Th0YG_ZHv4dMzR31Ts8.PB1bHqSfsW1lXvP3X_ZqqL62zsgl67prvVQTyqOGYhk",
+      "240x180": "https://96.img.avito.st/image/1/1.YfJV77ayzRsDTycbG_ZHv4dMzR31Ts8.JKkDWa1-KbQXuOx5AUfUtDOZPoRChaFUpw6hl8HvTRE",
+      "432x324": "https://96.img.avito.st/image/1/1.YfJV77ayzRsDSkccG_ZHv4dMzR31Ts8.uxn_sElsyRYktrNAmmRhCXG8fDkZ7pxpgnOK0bw4IOI",
+      "640x480": "https://96.img.avito.st/image/1/1.YfJV77ayzRtjRg8eG_ZHv4dMzR31Ts8.QwRVn71q_7GBguvozgCix2TW70_FCvSjTvAt360QC08"
+    },
+    {
+      "100x75": "https://66.img.avito.st/image/1/1.3447k7ayc2dFMedkCYz5w-kwc2GbMnE.G3mszccUvSwu-L5RXt8VeI2XDXUW0ugctZ2sLqeCPY8",
+      "1280x960": "https://66.img.avito.st/image/1/1.3447k7ayc2cNJPFqCYz5w-kwc2GbMnE.X4lXWf_bKZBuP3U78Ld4geSsVUCP-6mz2pMIxzZ9kLY",
+      "140x105": "https://66.img.avito.st/image/1/1.3447k7ayc2cVMqNkCYz5w-kwc2GbMnE.10inoRkbCIncsRRaWUFe7uFHcz8v3FENjmFO3N4OrrY",
+      "240x180": "https://66.img.avito.st/image/1/1.3447k7ayc2dtM5lnCYz5w-kwc2GbMnE.hycfbNBkQs4Ox26xtRflGA4u6kx6B8jWe2n4Jf1Fwzw",
+      "432x324": "https://66.img.avito.st/image/1/1.3447k7ayc2dtNvlgCYz5w-kwc2GbMnE.prXKcWghz34HnH5mCxBIFwpcPL_qV3_YEinfBsfxg-U",
+      "640x480": "https://66.img.avito.st/image/1/1.3447k7ayc2cNOrFiCYz5w-kwc2GbMnE.EIGq29SiyV0muvAK-KC4GFUIJb3rieXIksHw2wpPKKs"
+    },
+    {
+      "100x75": "https://65.img.avito.st/image/1/1.uFoQr7ayFLNuDYCwbLGeF8IMFLWwDhY.MZNOnEIQqyYnIWplsKEVnAQJH6_CSMMC_SSXhzFIqhs",
+      "1280x960": "https://65.img.avito.st/image/1/1.uFoQr7ayFLMmGJa-bLGeF8IMFLWwDhY.xEhPx8fTXiv9FJknbf47IJ2u_ovPHTILSrFi60mkP5I",
+      "140x105": "https://65.img.avito.st/image/1/1.uFoQr7ayFLM-DsSwbLGeF8IMFLWwDhY.sQQ8WvnmoFB_XKIJAOeXdBYvorzJkOX6J4OwVFb2nzg",
+      "240x180": "https://65.img.avito.st/image/1/1.uFoQr7ayFLNGD_6zbLGeF8IMFLWwDhY.GbnOAJo8cWM-ewedpg-k0KAcIL8yXXu9tadEsgB9Pj0",
+      "432x324": "https://65.img.avito.st/image/1/1.uFoQr7ayFLNGCp60bLGeF8IMFLWwDhY.TOsj3_3fpoxMQyWqD7E_yB9HwnA6yE1MFN7YY1K1unA",
+      "640x480": "https://65.img.avito.st/image/1/1.uFoQr7ayFLMmBta2bLGeF8IMFLWwDhY.AAQg2CF-Id30-BBarCc0Fg6Ma3HA3xYys3g22VycBYc"
+    }
+  ],
+  "isShowAds": true,
+  "locationId": 637640,
+  "metroId": 115,
+  "metroType": "icon",
+  "needToCheckSimilarItems": true,
+  "parameters": {
+    "flat": [
+      {
+        "attributeId": 1630,
+        "description": "1",
+        "title": "Залог, мес."
+      },
+      {
+        "attributeId": 1631,
+        "description": "Собственник",
+        "title": "Право собственности"
+      },
+      {
+        "attributeId": 510,
+        "description": "20 м²",
+        "title": "Площадь комнаты"
+      },
+      {
+        "attributeId": 121019,
+        "description": "Комната",
+        "title": "Тип жилья"
+      },
+      {
+        "attributeId": 121020,
+        "description": "Квартира",
+        "title": "Расположение"
+      },
+      {
+        "attributeId": 512,
+        "description": "2",
+        "title": "Комнат в квартире"
+      },
+      {
+        "attributeId": 514,
+        "description": "6 из 9",
+        "title": "Этаж"
+      },
+      {
+        "attributeId": 518,
+        "description": "Кирпичный",
+        "title": "Тип дома"
+      },
+      {
+        "attributeId": 596,
+        "description": "На длительный срок",
+        "title": "Срок аренды"
+      }
+    ],
+    "groups": []
+  },
+  "price": {
+    "metric": "₽ в месяц",
+    "title": "Цена",
+    "value": "19 000",
+    "value_signed": "19 000 ₽ в месяц"
+  },
+  "seller": {
+    "connection": {
+      "sources": [
+        {
+          "type": "email"
+        },
+        {
+          "type": "phone"
+        }
+      ],
+      "title": "Подтверждён"
+    },
+    "images": {
+      "128x128": "https://www.avito.st/stub_avatars/%D0%9F/5_128x128.png",
+      "192x192": "https://www.avito.st/stub_avatars/%D0%9F/5_192x192.png",
+      "24x24": "https://www.avito.st/stub_avatars/%D0%9F/5_24x24.png",
+      "256x256": "https://www.avito.st/stub_avatars/%D0%9F/5_256x256.png",
+      "36x36": "https://www.avito.st/stub_avatars/%D0%9F/5_36x36.png",
+      "48x48": "https://www.avito.st/stub_avatars/%D0%9F/5_48x48.png",
+      "64x64": "https://www.avito.st/stub_avatars/%D0%9F/5_64x64.png",
+      "72x72": "https://www.avito.st/stub_avatars/%D0%9F/5_72x72.png",
+      "96x96": "https://www.avito.st/stub_avatars/%D0%9F/5_96x96.png"
+    },
+    "isVerified": false,
+    "link": "ru.avito://1/user/profile?userKey=0fb8896b4a4fa70ae9728c8c9d172737d583241acf4776592b08a77ddcb12cfc&context=H4sIAAAAAAAA_xTGQQ6CMBAF0Lv8E0ynQzF_TtMoi5JixDHUxHh3wuq9ysxfUIn2gDeqiZSbplk9mIl43-FBI9pn2a4m4nuZEyFFdul1n8dqo25lek3PZYglOY7eV_j_DAAA__8FUQjrYAAAAA",
+    "name": "Пользователь",
+    "online": false,
+    "postfix": "Частное лицо",
+    "replyTime": {
+      "category": 4,
+      "text": "Отвечает на сообщения в течение дня"
+    },
+    "subscribeInfo": {
+      "isSubscribed": false
+    },
+    "title": "Арендодатель",
+    "userHash": "dbc77e17fd4c4b4d6ecd554eea6feb6e",
+    "userHashId": "233477666"
+  },
+  "seo": {
+    "canonicalUrl": "https://www.avito.ru/moskva/komnaty/komnata_20m_v_2-k._69et._2400682172",
+    "description": "Комната 20 м² в 2-к., 6/9 эт. сдаётся в Москве. Объявление на Авито. Сдаю комнату 20 м2 Девушке-студентке( славянской национальности)без вредных привычек, в хорошей квартире, со всеми удобствами, в кирпичном доме. Стоимость аренды 19000руб. в месяц без учёта коммунальных платежей+депозит 19000руб.( за сохранность комнаты( квартиры) и имущества в ней).",
+    "title": "Комната 20 м² в 2-к., 6/9 эт. в аренду в Москве | Снять комнату в Москве | Авито"
+  },
+  "sharing": {
+    "native": "https://www.avito.ru/moskva/komnaty/komnata_20m_v_2-k._69et._2400682172?utm_campaign=native&utm_medium=item_page_mweb&utm_source=soc_sharing",
+    "url": "https://www.avito.ru/moskva/komnaty/komnata_20m_v_2-k._69et._2400682172"
+  },
+  "shouldShowMapPreview": true,
+  "stats": {
+    "views": {
+      "today": 4,
+      "total": 694
+    }
+  },
+  "time": 1655917935,
+  "title": "Комната 20 м² в 2-к, 6/9 эт.",
+  "titleGenerated": true,
+  "userType": "private",
+  "verticalId": 1,
+  "viewItemAndBuyerEventsParams": {
+    "item_id": "2400682172",
+    "item_location_id": "Realty",
+    "logcat": "LongRent"
+  },
+  "xHash": "060q0laq7wj4wam65p5new0410vvllj"
+}

@@ -1,0 +1,9 @@
+{
+  "status": "ok",
+  "result": {
+    "action": {
+      "title": "Позвонить",
+      "uri": "ru.avito://1/phone/call?number=%2B79154127703"
+    }
+  }
+}
