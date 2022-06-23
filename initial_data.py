@@ -1,4 +1,10 @@
 """get url, cookies, headers from curlconverter"""
+import random
+
+FLOORS = 5
+DISTANCE = 2.1
+QUERY_INTERVAL = random.randrange(12, 20)
+
 
 url_str = 'https://m.avito.ru/api/11/items?key=af0deccbgcgidddjgnvljitntccdduijhdinfgjgfjir&categoryId=23&params\\[200\\]=1055&params\\[121019\\]=2849878&params\\[121020\\]=2849880&locationId=637640&localPriority=1&footWalkingMetro=0&params\\[596\\]=6203&priceMin=15000&priceMax=20000&params\\[510-from-int\\]=18&params\\[512\\]=5305&params\\[110497\\]=1&params\\[1458\\]=1&owner\\[\\]=private&sort=date&withImagesOnly=1&isGeoProps=true&page=1&lastStamp=1655482800&display=list&limit=30'
 
@@ -95,3 +101,4 @@ params = {
     'display': 'list',
     'limit': '30',
     }
+
