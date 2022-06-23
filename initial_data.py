@@ -1,6 +1,7 @@
 """get url, cookies, headers from curlconverter"""
 import random
 
+
 FLOORS = 5
 DISTANCE = 2.1
 QUERY_INTERVAL = random.randrange(12, 20)

@@ -8,7 +8,7 @@ from avito_db import AvitoDb
 from initial_data import *
 from prox import proxy
 import time
-from config import token, chat_id
+from my_config import token, chat_id
 from initial_data import FLOORS, DISTANCE, QUERY_INTERVAL
 
 database = AvitoDb()
